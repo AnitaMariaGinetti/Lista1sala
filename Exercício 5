@@ -1,0 +1,5 @@
+num = int(input("Entre com um número: "))
+
+nume = num**2
+
+print("O quadrado deste número é: ", nume)

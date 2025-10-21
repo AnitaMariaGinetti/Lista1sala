@@ -1,0 +1,5 @@
+nr_coelhos = int(input("Qual a quantidade de coelhos a serem cuidados? "))
+
+custo = (nr_coelhos * 0.70)/18 + 10
+
+print("O custo será de: ", custo

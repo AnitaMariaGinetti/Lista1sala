@@ -1,0 +1,7 @@
+raio = float(input("Qual o raio da sua lata de óleo?"))
+
+altura = float(input("Qual a altura da sua lata de óleo?"))
+
+volume = 3.14159 * raio * raio * altura
+
+print("O volume da sua lata de óleo corresponde à: ", volume)
